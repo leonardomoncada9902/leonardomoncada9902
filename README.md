@@ -28,6 +28,7 @@ Soy un analista especializado en la manipulación y transformación de datos, co
 
 - [Hotels Analisys - Power BI](https://github.com/leonardomoncada9902/hotels_analysis)
 - [App-Web](https://github.com/leonardomoncada9902/App-web)
+- [Oilygiant ML project](https://github.com/leonardomoncada9902/oilygiant_ml_project)
 
 ## 🌐 Idiomas
 
