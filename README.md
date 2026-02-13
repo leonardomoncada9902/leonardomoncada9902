@@ -29,6 +29,7 @@ Soy un analista especializado en la manipulación y transformación de datos, co
 - [Hotels Analisys - Power BI](https://github.com/leonardomoncada9902/hotels_analysis)
 - [App-Web](https://github.com/leonardomoncada9902/App-web)
 - [Oilygiant ML project](https://github.com/leonardomoncada9902/oilygiant_ml_project)
+- [Gold Recovery ML](https://github.com/leonardomoncada9902/gold_recovery_ml)
 
 ## 🌐 Idiomas
 
@@ -40,7 +41,7 @@ Soy un analista especializado en la manipulación y transformación de datos, co
 - 📧 Email: leonardo.moncada.9902@gmail.com
 - 📱 WhatsApp: +52 55 8517 0169
 <!--
-**leonardomoncada9902/leonardomoncada9902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leonardomoncada9902/leonardomoncada9902** is a ✨ _special_ ✨ repository) because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
