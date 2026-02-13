@@ -1,6 +1,6 @@
 # ¡Hola! 👋 soy Leonardo
 
-## 📊  Data Science | Analista de Datos
+## 📊  Data Science | Data Analysis
 
 Soy un analista especializado en la manipulación y transformación de datos, con pasión por convertir información compleja en insights accionables que impulsan decisiones estratégicas.
 
